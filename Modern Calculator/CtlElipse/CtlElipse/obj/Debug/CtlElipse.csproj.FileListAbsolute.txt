@@ -1,0 +1,9 @@
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\bin\Debug\CtlElipse.exe.config
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\bin\Debug\CtlElipse.exe
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\bin\Debug\CtlElipse.pdb
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\obj\Debug\CtlElipse.csproj.AssemblyReference.cache
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\obj\Debug\CtlElipse.Properties.Resources.resources
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\obj\Debug\CtlElipse.csproj.GenerateResource.cache
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\obj\Debug\CtlElipse.csproj.CoreCompileInputs.cache
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\obj\Debug\CtlElipse.exe
+C:\Users\Castel\Desktop\uni project\CtlElipse\CtlElipse\obj\Debug\CtlElipse.pdb

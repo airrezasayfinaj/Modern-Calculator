@@ -1,0 +1,21 @@
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\bin\Debug\Modern Calc.exe.config
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\bin\Debug\Modern Calc.exe
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\bin\Debug\Modern Calc.pdb
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\obj\Debug\Modern_Calc.Form1.resources
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\obj\Debug\Modern_Calc.Properties.Resources.resources
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.csproj.GenerateResource.cache
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.csproj.CoreCompileInputs.cache
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.exe
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.pdb
+C:\Users\Castel\Desktop\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.csproj.AssemblyReference.cache
+G:\desk\uni project\UniverCastel\Modern Calc\bin\Debug\Modern Calc.exe.config
+G:\desk\uni project\UniverCastel\Modern Calc\bin\Debug\Modern Calc.exe
+G:\desk\uni project\UniverCastel\Modern Calc\bin\Debug\Modern Calc.pdb
+G:\desk\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.csproj.AssemblyReference.cache
+G:\desk\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.csproj.SuggestedBindingRedirects.cache
+G:\desk\uni project\UniverCastel\Modern Calc\obj\Debug\Modern_Calc.Form1.resources
+G:\desk\uni project\UniverCastel\Modern Calc\obj\Debug\Modern_Calc.Properties.Resources.resources
+G:\desk\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.csproj.GenerateResource.cache
+G:\desk\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.csproj.CoreCompileInputs.cache
+G:\desk\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.exe
+G:\desk\uni project\UniverCastel\Modern Calc\obj\Debug\Modern Calc.pdb

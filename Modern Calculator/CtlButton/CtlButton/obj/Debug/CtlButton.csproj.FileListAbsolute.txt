@@ -1,0 +1,9 @@
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\bin\Debug\CtlButton.exe.config
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\bin\Debug\CtlButton.exe
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\bin\Debug\CtlButton.pdb
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\obj\Debug\CtlButton.Form1.resources
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\obj\Debug\CtlButton.Properties.Resources.resources
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\obj\Debug\CtlButton.csproj.GenerateResource.cache
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\obj\Debug\CtlButton.csproj.CoreCompileInputs.cache
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\obj\Debug\CtlButton.exe
+C:\Users\Castel\Desktop\uni project\CtlButton\CtlButton\obj\Debug\CtlButton.pdb
